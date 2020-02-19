@@ -1,1 +1,1 @@
-web: gunicorn app:keyphraseAPI
+web: gunicorn keyphraseAPI:app
